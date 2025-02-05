@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there! 👋 I'm [Your Name]  
 
-<!--
-**07naitik/07naitik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**  
+- 🎓 Computer Science Student Undergrad @ BITS Pilani
+- 💻 Backend (C++) Developer @ GoQuant
+- How to reach me 07vermanaitik@gmail.com
 
-Here are some ideas to get you started:
+📫 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naitik7/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏋️ **Beyond Code**  
+- 🏀 Playing sports & staying active  
+- 🏋️‍♂️ Building an **aesthetic physique**  
+- 🏕️ Exploring new places with my **architect brother**  
+
+---
+
+🚀 *"Code. Optimize. Repeat."* 🚀  
+⭐ **Feel free to drop a star ⭐ on my repositories if you find them useful!**

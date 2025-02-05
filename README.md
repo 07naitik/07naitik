@@ -1,19 +1,22 @@
-### Hi there! 👋 I'm [Your Name]  
+# Hi 👋, I'm Naitik 
 
-🚀 **About Me**  
-- 🎓 Computer Science Student Undergrad @ BITS Pilani
-- 💻 Backend (C++) Developer @ GoQuant
-- How to reach me 07vermanaitik@gmail.com
+A passionate developer from India.
 
-📫 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naitik7/)
-
-🏋️ **Beyond Code**  
-- 🏀 Playing sports & staying active  
-- 🏋️‍♂️ Building an **aesthetic physique**  
-- 🏕️ Exploring new places with my **architect brother**  
+- 💻 I'm a Computer Science Undergrad at [BITS Pilani](https://www.bits-pilani.ac.in/)
+- 🔭 I’m currently working at [GoQuant](https://goquant.io/)
+- 🌱 I’m learning [Full Stack Development & Web3](https://harkirat.classx.co.in/new-courses/14-complete-web-development-devops-blockchain-cohort)
+- 📫 How to reach me: 07vermanaitik@gmail.com  
 
 ---
 
-🚀 *"Code. Optimize. Repeat."* 🚀  
-⭐ **Feel free to drop a star ⭐ on my repositories if you find them useful!**
+## Connect with Me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naitik7/)  
+
+---
+
+## Languages and Tools:  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)  
+
+---
+
+⭐ **Feel free to connect!**  

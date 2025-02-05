@@ -4,8 +4,10 @@ A passionate developer from India.
 
 - 💻 I'm a Computer Science Undergrad at [BITS Pilani](https://www.bits-pilani.ac.in/)
 - 🔭 I’m currently working at [GoQuant](https://goquant.io/)
-- 💼 I'm an upcoming SDE intern at [D. E. Shaw & Co.](https://www.deshawindia.com/)
+- 💼 I'm an upcoming SDE intern (Summer 2025) at [D. E. Shaw & Co.](https://www.deshawindia.com/)
+- 💼 I was an SDE intern (Summer 2024) at [Warmcall](https://www.warmcall.com/)
 - 🌱 I’m learning [Full Stack Development & Web3](https://harkirat.classx.co.in/new-courses/14-complete-web-development-devops-blockchain-cohort)
+- ⚡️ **Rated 1586** on [Codeforces](https://codeforces.com/profile/velvet...thunder) 
 - 📫 How to reach me: 07vermanaitik@gmail.com  
 
 ---
@@ -17,13 +19,14 @@ A passionate developer from India.
 
 ## Languages and Tools:  
 
-### Programming Languages:  
+## Programming Languages:  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
 ### Backend Tools:  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  

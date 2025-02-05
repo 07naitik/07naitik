@@ -4,6 +4,7 @@ A passionate developer from India.
 
 - 💻 I'm a Computer Science Undergrad at [BITS Pilani](https://www.bits-pilani.ac.in/)
 - 🔭 I’m currently working at [GoQuant](https://goquant.io/)
+- 💼 I'm an upcoming SDE intern at D. E. Shaw & Co.
 - 🌱 I’m learning [Full Stack Development & Web3](https://harkirat.classx.co.in/new-courses/14-complete-web-development-devops-blockchain-cohort)
 - 📫 How to reach me: 07vermanaitik@gmail.com  
 

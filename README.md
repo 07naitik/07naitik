@@ -3,7 +3,7 @@
 A passionate developer from India.
 
 - 💻 I'm a Computer Science Undergrad at [BITS Pilani](https://www.bits-pilani.ac.in/)
-- 🔭 I’m currently working at [GoQuant](https://goquant.io/)
+- 🔭 I’m currently working as a Backend (C++) Developer at [GoQuant](https://goquant.io/)
 - 💼 I'm an upcoming SDE intern (Summer 2025) at [D. E. Shaw & Co.](https://www.deshawindia.com/)
 - 💼 I was an SDE intern (Summer 2024) at [Warmcall](https://www.warmcall.com/)
 - 🌱 I’m learning [Full Stack Development & Web3](https://harkirat.classx.co.in/new-courses/14-complete-web-development-devops-blockchain-cohort)

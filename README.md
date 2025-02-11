@@ -10,16 +10,14 @@ A passionate developer from India.
 - ⚡️ **Rated 1586** on [Codeforces](https://codeforces.com/profile/velvet...thunder) 
 - 📫 How to reach me: 07vermanaitik@gmail.com  
 
----
 
 ## Connect with Me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naitik7/)  
 
----
 
 ## Languages and Tools:  
 
-## Programming Languages:  
+### Programming Languages:  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  

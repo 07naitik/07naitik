@@ -3,10 +3,9 @@
 A passionate developer from India.
 
 - 💻 I'm a Computer Science Undergrad at [BITS Pilani](https://www.bits-pilani.ac.in/)
-- 🔭 I’m currently working as a Backend (C++) Developer at [GoQuant](https://goquant.io/)
 - 💼 I'm an upcoming SDE intern (Summer 2025) at [D. E. Shaw & Co.](https://www.deshawindia.com/)
-- 💼 I was an SDE intern (Summer 2024) at [Warmcall](https://www.warmcall.com/)
-- 🌱 I’m learning [Full Stack Development & Web3](https://harkirat.classx.co.in/new-courses/14-complete-web-development-devops-blockchain-cohort)
+- 💼 I have worked as an SDE intern at [Warmcall](https://www.warmcall.com/), Backend intern at [GoQuant](https://goquant.io/), Data Science intern at [NPC Capital](https://npcgroup.xyz), and as a freelenacer.
+- 🌱 I’m learning from [100x devs - Full Stack Development & Web3](https://harkirat.classx.co.in/new-courses/14-complete-web-development-devops-blockchain-cohort)
 - ⚡️ **Rated 1586** on [Codeforces](https://codeforces.com/profile/velvet...thunder) 
 - 📫 How to reach me: 07vermanaitik@gmail.com  
 

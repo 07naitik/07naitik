@@ -4,7 +4,7 @@ A passionate developer from India.
 
 - 💻 I'm a Computer Science Undergrad at [BITS Pilani](https://www.bits-pilani.ac.in/)
 - 💼 I was an SDE intern (Summer 2025) at [D. E. Shaw & Co.](https://www.deshawindia.com/)
-- 💼 I have worked as a Backend intern at [GoQuant](https://goquant.io/), Data Science intern at [NPC Capital](https://npcgroup.xyz), [Warmcall](https://www.warmcall.com/), and as a freelenacer.
+- 💼 I have worked as a Backend intern at [GoQuant](https://goquant.io/), Quantitative Developer intern at [NPC Capital](https://npcgroup.xyz), SDE intern at [Warmcall](https://www.warmcall.com/), and as a freelenacer.
 - ⚡️ **Rated 1586** on [Codeforces](https://codeforces.com/profile/velvet...thunder) 
 - 📫 How to reach me: 07vermanaitik@gmail.com  
 
@@ -43,6 +43,7 @@ and more...
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+and more...
 
 ---
 

@@ -3,9 +3,8 @@
 A passionate developer from India.
 
 - 💻 I'm a Computer Science Undergrad at [BITS Pilani](https://www.bits-pilani.ac.in/)
-- 💼 I'm an upcoming SDE intern (Summer 2025) at [D. E. Shaw & Co.](https://www.deshawindia.com/)
-- 💼 I have worked as an SDE intern at [Warmcall](https://www.warmcall.com/), Backend intern at [GoQuant](https://goquant.io/), Data Science intern at [NPC Capital](https://npcgroup.xyz), and as a freelenacer.
-- 🌱 I’m learning from [100x devs - Full Stack Development & Web3](https://harkirat.classx.co.in/new-courses/14-complete-web-development-devops-blockchain-cohort)
+- 💼 I was an SDE intern (Summer 2025) at [D. E. Shaw & Co.](https://www.deshawindia.com/)
+- 💼 I have worked as a Backend intern at [GoQuant](https://goquant.io/), Data Science intern at [NPC Capital](https://npcgroup.xyz), [Warmcall](https://www.warmcall.com/), and as a freelenacer.
 - ⚡️ **Rated 1586** on [Codeforces](https://codeforces.com/profile/velvet...thunder) 
 - 📫 How to reach me: 07vermanaitik@gmail.com  
 
@@ -24,16 +23,19 @@ A passionate developer from India.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+and more...
 
 ### Backend Tools:  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+and more...
 
 ### Databases and Cloud:  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)  
+and more...
 
 ### Machine Learning & Data Science:  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
